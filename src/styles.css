@@ -1,3 +1,10 @@
 body {
   background-color: #7FDBFF;
+  flex: auto;
+}
+
+input {
+  width: 30px;
+  height: 30px;
+  border: solid black 2px;
 }
